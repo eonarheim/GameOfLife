@@ -1,7 +1,6 @@
 
-
 # Conway's Game of Life
-## About
+### About
 The Game of Life is a simulation of cellular automotons, evolution of the simulation is determined by the initial "seed".
 
 The rules that drive the simulation are as follows:
@@ -12,7 +11,7 @@ The rules that drive the simulation are as follows:
 
 
 
-## How to "play"
-Click and drag to lay down the "seed" cells. 
-Press any key to start/stop the simulation.
+### How to "play"
+ * Click and drag to lay down the "seed" cells. 
+ * Press any key to start/stop the simulation.
 
