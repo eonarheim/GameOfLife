@@ -1,5 +1,10 @@
 # Conway's Game of Life
 
+### How to "play"
+ * Click and drag to lay down the "seed" cells. 
+ * Press any key to start/stop the simulation.
+
+
 Click [here](http://eonarheim.github.io/GameOfLife/app/index.html) to play
 
 ### About
@@ -12,8 +17,4 @@ The rules that drive the simulation are as follows:
  * Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 
-
-### How to "play"
- * Click and drag to lay down the "seed" cells. 
- * Press any key to start/stop the simulation.
 
