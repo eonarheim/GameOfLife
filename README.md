@@ -1,5 +1,7 @@
-
 # Conway's Game of Life
+
+Click [here](http://eonarheim.github.io/GameOfLife/app/index.html) to play
+
 ### About
 The Game of Life is a simulation of cellular automotons, evolution of the simulation is determined by the initial "seed".
 
