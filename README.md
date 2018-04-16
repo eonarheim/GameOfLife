@@ -5,7 +5,7 @@
  * Press any key to start/stop the simulation.
 
 
-Click [here](http://eonarheim.github.io/GameOfLife/app/index.html) to play
+Click [here](http://eonarheim.github.io/GameOfLife/) to play
 
 ### About
 The Game of Life is a simulation of cellular automotons, evolution of the simulation is determined by the initial "seed".
